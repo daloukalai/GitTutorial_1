@@ -1,0 +1,4 @@
+///////////////// Revision 1 /////////////////////////////
+Hi, I am creating this file to illustrate Git commands.
+This is the end of the first revision or virgin creation of this file
+///////////////// End of Revision 1 //////////////////////
