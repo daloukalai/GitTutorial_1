@@ -2,4 +2,11 @@
 Hi, I am creating this file to illustrate Git commands.
 This is the end of the first revision or virgin creation of this file
 ///////////////// End of Revision 1 //////////////////////
+<<<<<<< HEAD
 One more change
+=======
+
+////// A new branch A0001 and its revision. Call it Revision 2 ////////
+Added this line
+//////////////////////// End of Revision 2 ////////////////////
+>>>>>>> a2a1a9ea0ed985afbda6e0c23adcb5b376f60210
